@@ -30,3 +30,11 @@ If you are intrigued by our work, please feel free to reach out to us!
 %}
 
 {% include section.html %}
+
+## Alumni
+
+Here are the past members of our group!
+
+{% include list.html data="members" component="portrait" filter="group == 'alum'" style="small" %}
+
+{% include section.html %}
