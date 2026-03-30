@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
 The Zdouc Lab strives to be a diverse and inclusive space where individuals can freely exchange ideas, learn, and grow.
-We foster an environment where we respect and appreciate our difference, where all team members are treated equally and respectfully.
+We foster an environment where we respect and appreciate our differences, where all team members are treated equally and respectfully.
 We stand against any form of discrimination, as laid out in our [Code of Conduct](https://github.com/zdouc-lab/.github/blob/main/CODE_OF_CONDUCT.md).
 
 Meet the wonderful individuals that make up our research group!
@@ -24,8 +24,8 @@ If you are intrigued by our work, please feel free to reach out to us!
 {%
   include button.html
   icon="fa-solid fa-handshake-angle"
-  text="Join the Team"
-  link="join"
+  text="Get in touch"
+  link="contact"
   style="button"
 %}
 
