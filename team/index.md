@@ -7,29 +7,26 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The Zdouc Lab strives to be a diverse and inclusive space where individuals can freely exchange ideas, learn, and grow.
+We foster an environment where we respect and appreciate our difference, where all team members are treated equally and respectfully.
+We stand against any form of discrimination, as laid out in our [Code of Conduct](https://github.com/zdouc-lab/.github/blob/main/CODE_OF_CONDUCT.md).
+
+Meet the wonderful individuals that make up our research group!
+
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and group != 'alum'" %}
+
+{% include section.html dark=true %}
+
+We are always on the lookout for new and interesting perspectives, both in terms of individuals and collaboration partners.
+If you are intrigued by our work, please feel free to reach out to us!
+
+{%
+  include button.html
+  icon="fa-solid fa-handshake-angle"
+  text="Join the Team"
+  link="join"
+  style="button"
+%}
 
 {% include section.html %}
-
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
-
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
