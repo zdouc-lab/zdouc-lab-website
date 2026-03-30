@@ -1,36 +1,45 @@
 - id: doi:10.1101/2020.07.19.210815
+  publisher: bioRxiv
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/2020.07.19.210815
 - id: doi:10.1101/2020.07.21.214643
+  publisher: bioRxiv
   buttons:
     - type: preprint
       link: https://doi.org/10.1101/2020.07.21.214643
 - id: doi:10.1101/2022.12.21.521422
+  publisher: bioRxiv
   buttons:
     - type: preprint
       link: https://doi.org/10.1101/2022.12.21.521422
 - id: doi:10.1101/2024.02.09.579616
+  publisher: bioRxiv
   buttons:
     - type: preprint
       link: https://doi.org/10.1101/2024.02.09.579616
 - id: doi:10.26434/chemrxiv-2024-78mtl
+  publisher: chemRxiv
   buttons:
     - type: preprint
       link: https://doi.org/10.26434/chemrxiv-2024-78mtl
 - id: doi:10.26434/chemrxiv-2024-03ls0
+  publisher: chemRxiv
   buttons:
     - type: preprint
       link: https://doi.org/10.26434/chemrxiv-2024-03ls0
 - id: doi:10.21203/rs.3.rs-6073935/v1
+  publisher: ResearchSquare
   buttons:
     - type: preprint
       link: https://doi.org/10.21203/rs.3.rs-6073935/v1
 - id: doi:10.26434/chemrxiv-2024-78mtl-v2
+  publisher: chemRxiv
   buttons:
     - type: preprint
       link: https://doi.org/10.26434/chemrxiv-2024-78mtl-v2
 - id: doi:10.1101/2025.10.24.682833
+  publisher: bioRxiv
   buttons:
     - type: preprint
       link: https://doi.org/10.1101/2025.10.24.682833

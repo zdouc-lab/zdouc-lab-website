@@ -66,7 +66,7 @@
   - Angus Weir
   - Eveline Lescrinier
   - Joleen Masschelein
-  publisher: openRxiv
+  publisher: bioRxiv
   date: '2025-10-24'
   link: https://doi.org/hbvbtp
   orcid: 0000-0001-6534-6609
@@ -655,7 +655,7 @@
   - Gilles P. van Wezel
   - Marnix H. Medema
   - Justin J. J. van der Hooft
-  publisher: openRxiv
+  publisher: bioRxiv
   date: '2022-12-22'
   link: https://doi.org/hbvbtw
   orcid: 0000-0001-6534-6609
@@ -817,7 +817,7 @@
   - "Max Cr\xFCsemann"
   - Stefano Donadio
   - Margherita Sosio
-  publisher: openRxiv
+  publisher: bioRxiv
   date: '2020-07-19'
   link: https://doi.org/gsxr65
   buttons:
@@ -837,7 +837,7 @@
   - Marnix H. Medema
   - Stefano Donadio
   - Margherita Sosio
-  publisher: openRxiv
+  publisher: bioRxiv
   date: '2020-07-21'
   link: https://doi.org/hbvb3m
   buttons:
@@ -856,7 +856,7 @@
   - Nirit Ezov
   - Ron Schweitzer
   - Justin J. J. van der Hooft
-  publisher: openRxiv
+  publisher: bioRxiv
   date: '2024-02-09'
   link: https://doi.org/hbvb3s
   buttons:
@@ -889,7 +889,7 @@
   - Nadine Ziemert
   - Kai Blin
   - Marnix H. Medema
-  publisher: American Chemical Society (ACS)
+  publisher: chemRxiv
   date: '2024-04-09'
   link: https://doi.org/g9gw2p
   buttons:
@@ -907,7 +907,7 @@
   - Justin J.J. van der Hooft
   - Sara Cimini
   - Laura Righetti
-  publisher: American Chemical Society (ACS)
+  publisher: chemRxiv
   date: '2024-07-09'
   link: https://doi.org/hbvb4r
   buttons:
@@ -935,7 +935,7 @@
   - Imke Schmitt
   - Francesco Dal Grande
   - Marnix H. Medema
-  publisher: Springer Science and Business Media LLC
+  publisher: ResearchSquare
   date: '2025-03-14'
   link: https://doi.org/hbvb48
   buttons:
@@ -997,7 +997,7 @@
   - Justin J. J. van der Hooft
   - Marnix H. Medema
   - Mitja M. Zdouc
-  publisher: American Chemical Society (ACS)
+  publisher: chemRxiv
   date: '2025-08-20'
   link: https://doi.org/hbvb5g
   buttons:
