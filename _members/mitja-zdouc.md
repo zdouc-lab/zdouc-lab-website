@@ -26,10 +26,3 @@ Before starting his lab in 2026, Mitja earned his Ph.D. for his investigations o
 From 2022 to 2026, he was a postdoctoral researcher at Wageningen University, where he worked on the development of computational tools and data resources for natural product discovery. 
 
 {% include float.html clear=true %}
-
-## All papers under Mitja's ORCID:
-
-{% capture content %}
-{% include list.html data="citations" component="citation" filters="member: mitja-zdouc" %}
-{% endcapture %}
-{% include grid.html content=content %}
