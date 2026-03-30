@@ -5,6 +5,6 @@
 
   # zdouc-lab's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[zdouc-lab.github.io/zdouc-lab-website](https://zdouc-lab.github.io/zdouc-lab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
