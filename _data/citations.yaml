@@ -1,265 +1,1007 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1099/mgen.0.001569
+  title: Paired-omics-based exploration and characterization of biosynthetic diversity
+    in lichenized fungi
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - Garima Singh
+  - Maonian Xu
+  - Mitja Zdouc
+  - Anna Pasinato
+  - Susan Egbert
+  - Xinhui Yu
+  - Elin Soffia Olafsdottir
+  - Nuria Beltran-Sanz
+  - Pradeep K. Divakar
+  - David Pizarro
+  - Jordan R. Hoffman
+  - Christoph Scheidegger
+  - Imke Schmitt
+  - Francesco Dal Grande
+  - Marnix H. Medema
+  publisher: Microbial Genomics
+  date: '2025-12-17'
+  link: https://doi.org/hbvbtm
+  orcid: 0000-0001-6534-6609
+  plugin: orcid.py
+  file: orcid-pi.yaml
+- id: doi:10.1093/bib/bbaf659
+  title: 'Strategies for community-sourced biocuration in bioinformatics: a case study
+    on MIBiG 4.0'
+  authors:
+  - Kai Blin
+  - Catarina Loureiro
+  - Nico L L Louwen
+  - "Jorge C Navarro-Mu\xF1oz"
+  - Hans Gerstmans
+  - Serina L Robinson
+  - Adriano Rutz
+  - Zachary L Reitz
+  - Drew T Doering
+  - Justin J J van der Hooft
+  - Tilmann Weber
+  - Marnix H Medema
+  - Mitja M Zdouc
+  publisher: Briefings in Bioinformatics
+  date: '2025-11-01'
+  link: https://doi.org/hbvbtn
+  orcid: 0000-0001-6534-6609
+  plugin: orcid.py
+  file: orcid-pi.yaml
+- id: doi:10.1101/2025.10.24.682833
+  title: Charting the biosynthetic landscape of hybrid polyketide-nonribosomal peptide-specialized
+    lipids
+  authors:
+  - Fatima El Arnouki Belhaji
+  - Dries De Ruysscher
+  - Giel Vanreppelen
+  - Laura-Lynn Huybrechts
+  - Mohammad M. Alanjary
+  - Mitja M. Zdouc
+  - Emmanuel L.C. de los Santos
+  - Odessa Van Goethem
+  - Hans Gerstmans
+  - Patrick Van Dijck
+  - Marnix H. Medema
+  - Angus Weir
+  - Eveline Lescrinier
+  - Joleen Masschelein
   publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
-  authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  date: '2025-10-24'
+  link: https://doi.org/hbvbtp
+  orcid: 0000-0001-6534-6609
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  - type: preprint
+    link: https://doi.org/10.1101/2025.10.24.682833
+- id: doi:10.1093/nar/gkaf969
+  title: 'MITE: the Minimum Information about a Tailoring Enzyme database for capturing
+    specialized metabolite biosynthesis'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Adriano Rutz
+  - Daniel Probst
+  - "C\xE9sar Aguilar"
+  - Daniel Y Akiyama
+  - Fabrizio Alberti
+  - "Hannah\_E Augustijn"
+  - Nicole E Avalon
+  - Christine Beemelmanns
+  - Hellen Bertoletti Barbieri
+  - Friederike Biermann
+  - Alan J Bridge
+  - "Esteban Charria Gir\xF3n"
+  - Russell Cox
+  - "Max Cr\xFCsemann"
+  - "Paul M D\u2019Agostino"
+  - Marc Feuermann
+  - Jennifer Gerke
+  - "Karina Guti\xE9rrez Garc\xEDa"
+  - Jonathan E Holme
+  - Ji-Yeon Hwang
+  - Riccardo Iacovelli
+  - "J\xFAlio C\xE9sar Jeronimo\_Barbosa"
+  - Navneet Kaur
+  - Martin Klapper
+  - "Anna M K\xF6hler"
+  - Aleksandra Korenskaia
+  - Noel Kubach
+  - Byung T Lee
+  - Catarina Loureiro
+  - Shrikant Mantri
+  - Simran Narula
+  - David Meijer
+  - "Jorge C Navarro-Mu\xF1oz"
+  - Giang-Son Nguyen
+  - Sunaina Paliyal
+  - Mohit Panghal
+  - Latika Rao
+  - Simon Sieber
+  - Nika Sokolova
+  - "Sven\_T Sowa"
+  - Judit Szenei
+  - Barbara R Terlouw
+  - Heiner G Weddeling
+  - Jingwei Yu
+  - Nadine Ziemert
+  - Tilmann Weber
+  - Kai Blin
+  - "Justin J J van\_der\_Hooft"
+  - "Marnix\_H Medema"
+  - Mitja M Zdouc
+  publisher: Nucleic Acids Research
+  date: '2025-09-26'
+  link: https://doi.org/hbvbtq
+  orcid: 0000-0001-6534-6609
   plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+  file: orcid-pi.yaml
+- id: doi:10.1021/acs.analchem.4c05577
+  title: Multilaboratory Untargeted Mass Spectrometry Metabolomics Collaboration to
+    Identify Bottlenecks and Comprehensively Annotate A Single Dataset
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Joelle Houriet
+  - Preston K. Manwill
+  - "Armando Alc\xE1zar Maga\xF1a"
+  - Victoria M. Anderson
+  - Mehdi A. Beniddir
+  - Samuel Bertrand
+  - Jaewoo Choi
+  - Trevor N. Clark
+  - Leonard J. Foster
+  - Maria Halabalaki
+  - Alan K. Jarmusch
+  - Niek F. de Jonge
+  - Aswad Khadilkar
+  - John B. MacMillan
+  - Claudia S. Maier
+  - Luke C. Marney
+  - Guillaume Marti
+  - Eleni V. Mikropoulou
+  - Damien Olivier-Jimenez
+  - "Am\xE9lie Perez"
+  - Justin J. J. van der Hooft
+  - Mitja M. Zdouc
+  - Roger G. Linington
+  - Nadja B. Cech
+  publisher: Analytical Chemistry
+  date: '2025-07-22'
+  link: https://doi.org/g934gh
+  orcid: 0000-0001-6534-6609
+  plugin: orcid.py
+  file: orcid-pi.yaml
+- id: doi:10.1093/nar/gkaf334
+  title: 'antiSMASH 8.0: extended gene cluster detection capabilities and analyses
+    of chemistry, enzymology, and regulation'
+  authors:
+  - Kai Blin
+  - Simon Shaw
+  - Lisa Vader
+  - Judit Szenei
+  - "Zachary\_L Reitz"
+  - "Hannah\_E Augustijn"
+  - "Jos\xE9\_D D Cediel-Becerra"
+  - "Val\xE9rie de\_Cr\xE9cy-Lagard"
+  - "Robert\_A Koetsier"
+  - "Sam\_E Williams"
+  - Pablo Cruz-Morales
+  - Sopida Wongwas
+  - "Alejandro\_E Segurado\_Luchsinger"
+  - Friederike Biermann
+  - Aleksandra Korenskaia
+  - "Mitja\_M Zdouc"
+  - David Meijer
+  - "Barbara\_R Terlouw"
+  - "Justin\_J J van\_der\_Hooft"
+  - Nadine Ziemert
+  - "Eric\_J N Helfrich"
+  - Joleen Masschelein
+  - Christophe Corre
+  - "Marc\_G Chevrette"
+  - "Gilles\_P van\_Wezel"
+  - "Marnix\_H Medema"
+  - Tilmann Weber
+  publisher: Nucleic Acids Research
+  date: '2025-04-25'
+  link: https://doi.org/hbmjms
+  orcid: 0000-0001-6534-6609
+  plugin: orcid.py
+  file: orcid-pi.yaml
+- id: doi:10.1007/s11306-025-02257-9
+  title: Olive mill solid waste induces beneficial mushroom-specialized metabolite
+    diversity revealed by computational metabolomics strategies
+  authors:
+  - Soliman Khatib
+  - Idan Pereman
+  - Elizabeth Kostanda
+  - Mitja M. Zdouc
+  - Nirit Ezov
+  - Ron Schweitzer
+  - Justin J. J. van der Hooft
+  publisher: Metabolomics
+  date: '2025-04-26'
+  link: https://doi.org/hbvbtr
+  orcid: 0000-0001-6534-6609
+  plugin: orcid.py
+  file: orcid-pi.yaml
+- id: doi:10.1007/s11306-024-02210-2
+  title: Non-targeted metabolomics-based molecular networking enables the chemical
+    characterization of Rumex sanguineus, a wild edible plant
+  authors:
+  - Valentina Ramundi
+  - Mitja M. Zdouc
+  - Enrica Donati
+  - Justin J. J. van der Hooft
+  - Sara Cimini
+  - Laura Righetti
+  publisher: Metabolomics
+  date: '2025-01-24'
+  link: https://doi.org/hbvbts
+  orcid: 0000-0001-6534-6609
+  plugin: orcid.py
+  file: orcid-pi.yaml
+- id: doi:10.1093/nar/gkae1115
+  title: 'MIBiG 4.0: advancing biosynthetic gene cluster curation through global collaboration'
+  authors:
+  - "Mitja\_M Zdouc"
+  - Kai Blin
+  - "Nico\_L L Louwen"
+  - Jorge Navarro
+  - Catarina Loureiro
+  - "Chantal\_D Bader"
+  - "Constance\_B Bailey"
+  - Lena Barra
+  - "Thomas\_J Booth"
+  - "Kenan\_A J Bozh\xFCy\xFCk"
+  - "Jos\xE9\_D D Cediel-Becerra"
+  - Zachary Charlop-Powers
+  - "Marc\_G Chevrette"
+  - Yit Heng Chooi
+  - "Paul\_M D\u2019Agostino"
+  - "Tristan de\_Rond"
+  - "Elena Del\_Pup"
+  - "Katherine\_R Duncan"
+  - Wenjia Gu
+  - Novriyandi Hanif
+  - "Eric\_J N Helfrich"
+  - Matthew Jenner
+  - Yohei Katsuyama
+  - Aleksandra Korenskaia
+  - Daniel Krug
+  - Vincent Libis
+  - "George\_A Lund"
+  - Shrikant Mantri
+  - "Kalindi\_D Morgan"
+  - Charlotte Owen
+  - Chin-Soon Phan
+  - Benjamin Philmus
+  - "Zachary\_L Reitz"
+  - "Serina\_L Robinson"
+  - Kumar Saurabh Singh
+  - Robin Teufel
+  - Yaojun Tong
+  - Fidele Tugizimana
+  - Dana Ulanova
+  - "Jaclyn\_M Winter"
+  - "C\xE9sar Aguilar"
+  - "Daniel\_Y Akiyama"
+  - "Suhad\_A A Al-Salihi"
+  - Mohammad Alanjary
+  - Fabrizio Alberti
+  - Gajender Aleti
+  - "Shumukh\_A Alharthi"
+  - "Mariela\_Y Arias Rojo"
+  - "Amr\_A Arishi"
+  - "Hannah\_E Augustijn"
+  - "Nicole\_E Avalon"
+  - "J\_Abraham Avelar-Rivas"
+  - "Kyle\_K Axt"
+  - "Hellen\_B Barbieri"
+  - "Julio\_Cesar\_J Barbosa"
+  - "Lucas Gabriel Barboza\_Segato"
+  - "Susanna\_E Barrett"
+  - Martin Baunach
+  - Christine Beemelmanns
+  - Dardan Beqaj
+  - Tim Berger
+  - "Jordan Bernaldo-Ag\xFCero"
+  - "Sandra\_M Bettenb\xFChl"
+  - "Vincent\_A Bielinski"
+  - Friederike Biermann
+  - "Ricardo\_M Borges"
+  - Rainer Borriss
+  - Milena Breitenbach
+  - "Kevin\_M Bretscher"
+  - "Michael\_W Brigham"
+  - Larissa Buedenbender
+  - "Brodie\_W Bulcock"
+  - Carolina Cano-Prieto
+  - "Jo\xE3o Capela"
+  - "Victor\_J Carrion"
+  - "Riley\_S Carter"
+  - Raquel Castelo-Branco
+  - "Gabriel Castro-Falc\xF3n"
+  - "Fernanda\_O Chagas"
+  - "Esteban Charria-Gir\xF3n"
+  - Ayesha Ahmed Chaudhri
+  - Vasvi Chaudhry
+  - Hyukjae Choi
+  - Yukyung Choi
+  - Roya Choupannejad
+  - Jakub Chromy
+  - "Melinda\_S Chue Donahey"
+  - "J\xE9r\xF4me Collemare"
+  - "Jack\_A Connolly"
+  - "Kaitlin\_E Creamer"
+  - "Max Cr\xFCsemann"
+  - "Andres\_Arredondo Cruz"
+  - Andres Cumsille
+  - Jean-Felix Dallery
+  - "Luis\_Caleb Damas-Ramos"
+  - Tito Damiani
+  - "Martinus de\_Kruijff"
+  - "Bel\xE9n Delgado Mart\xEDn"
+  - Gerardo Della Sala
+  - Jelle Dillen
+  - "Drew\_T Doering"
+  - "Shravan\_R Dommaraju"
+  - Suhan Durusu
+  - Susan Egbert
+  - Mark Ellerhorst
+  - Baptiste Faussurier
+  - Artem Fetter
+  - Marc Feuermann
+  - "David\_P Fewer"
+  - Jonathan Foldi
+  - Andri Frediansyah
+  - "Erin\_A Garza"
+  - Athina Gavriilidou
+  - Andrea Gentile
+  - Jennifer Gerke
+  - Hans Gerstmans
+  - Juan Pablo Gomez-Escribano
+  - "Luz\_A Gonz\xE1lez-Salazar"
+  - "Natalie\_E Grayson"
+  - Claudio Greco
+  - "Juan\_E Gris Gomez"
+  - Sebastian Guerra
+  - Shaday Guerrero Flores
+  - Alexey Gurevich
+  - "Karina Guti\xE9rrez-Garc\xEDa"
+  - Lauren Hart
+  - Kristina Haslinger
+  - Beibei He
+  - Teo Hebra
+  - "Jethro\_L Hemmann"
+  - Hindra Hindra
+  - "Lars H\xF6ing"
+  - "Darren\_C Holland"
+  - "Jonathan\_E Holme"
+  - Therese Horch
+  - Pavlo Hrab
+  - Jie Hu
+  - Thanh-Hau Huynh
+  - Ji-Yeon Hwang
+  - Riccardo Iacovelli
+  - Dumitrita Iftime
+  - Marianna Iorio
+  - Sidharth Jayachandran
+  - Eunah Jeong
+  - Jiayi Jing
+  - "Jung\_J Jung"
+  - Yuya Kakumu
+  - Edward Kalkreuter
+  - Kyo Bin Kang
+  - Sangwook Kang
+  - Wonyong Kim
+  - Geum Jin Kim
+  - Hyunwoo Kim
+  - "Hyun\_Uk Kim"
+  - Martin Klapper
+  - "Robert\_A Koetsier"
+  - Cassandra Kollten
+  - "\xC1kos\_T Kov\xE1cs"
+  - Yelyzaveta Kriukova
+  - Noel Kubach
+  - "Aditya\_M Kunjapur"
+  - "Aleksandra\_K Kushnareva"
+  - Andreja Kust
+  - Jessica Lamber
+  - Martin Larralde
+  - "Niels\_J Larsen"
+  - "Adrien\_P Launay"
+  - Ngoc-Thao-Hien Le
+  - Sarah Lebeer
+  - Byung Tae Lee
+  - Kyungha Lee
+  - "Katherine\_L Lev"
+  - Shu-Ming Li
+  - Yong-Xin Li
+  - "Cuauht\xE9moc Licona-Cassani"
+  - Annette Lien
+  - Jing Liu
+  - "Julius\_Adam\_V Lopez"
+  - "Nataliia\_V Machushynets"
+  - "Marla\_I Macias"
+  - Taifo Mahmud
+  - Matiss Maleckis
+  - "A\xF1adir Maharai Martinez-Martinez"
+  - Yvonne Mast
+  - "Marina\_F Maximo"
+  - "Christina\_M McBride"
+  - "Rose\_M McLellan"
+  - Khyati Mehta Bhatt
+  - Chrats Melkonian
+  - Aske Merrild
+  - "Mikko Mets\xE4-Ketel\xE4"
+  - "Douglas\_A Mitchell"
+  - "Alison\_V M\xFCller"
+  - Giang-Son Nguyen
+  - "Hera\_T Nguyen"
+  - "Timo\_H\_J Niedermeyer"
+  - "Julia\_H O\u2019Hare"
+  - Adam Ossowicki
+  - "Bohdan\_O Ostash"
+  - Hiroshi Otani
+  - Leo Padva
+  - Sunaina Paliyal
+  - Xinya Pan
+  - Mohit Panghal
+  - Dana S Parade
+  - Jiyoon Park
+  - Jonathan Parra
+  - Marcos Pedraza Rubio
+  - "Huong\_T Pham"
+  - "Sacha\_J Pidot"
+  - "J\xF6rn Piel"
+  - Bita Pourmohsenin
+  - Malik Rakhmanov
+  - Sangeetha Ramesh
+  - "Michelle\_H Rasmussen"
+  - Adriana Rego
+  - Raphael Reher
+  - "Andrew\_J Rice"
+  - Augustin Rigolet
+  - Adriana Romero-Otero
+  - "Luis\_Rodrigo Rosas-Becerra"
+  - "Pablo\_Y Rosiles"
+  - Adriano Rutz
+  - Byeol Ryu
+  - Libby-Ann Sahadeo
+  - Murrel Saldanha
+  - Luca Salvi
+  - "Eduardo S\xE1nchez-Carvajal"
+  - Christian Santos-Medellin
+  - Nicolau Sbaraini
+  - "Sydney\_M Schoellhorn"
+  - Clemens Schumm
+  - Ludek Sehnal
+  - Nelly Selem
+  - "Anjali\_D Shah"
+  - "Tania\_K Shishido"
+  - Simon Sieber
+  - Velina Silviani
+  - Garima Singh
+  - Hemant Singh
+  - Nika Sokolova
+  - "Eva\_C Sonnenschein"
+  - Margherita Sosio
+  - "Sven\_T Sowa"
+  - Karin Steffen
+  - Evi Stegmann
+  - "Alena\_B Streiff"
+  - "Alena Str\xFCder"
+  - Frank Surup
+  - Tiziana Svenningsen
+  - Douglas Sweeney
+  - Judit Szenei
+  - Azat Tagirdzhanov
+  - Bin Tan
+  - "Matthew\_J Tarnowski"
+  - "Barbara\_R Terlouw"
+  - Thomas Rey
+  - "Nicola\_U Thome"
+  - "Laura Rosina Torres\_Ortega"
+  - "Thomas T\xF8rring"
+  - Marla Trindade
+  - "Andrew\_W Truman"
+  - Marie Tvilum
+  - "Daniel\_W Udwary"
+  - Christoph Ulbricht
+  - Lisa Vader
+  - "Gilles\_P van\_Wezel"
+  - Max Walmsley
+  - Randika Warnasinghe
+  - "Heiner\_G Weddeling"
+  - "Angus\_N M Weir"
+  - Katherine Williams
+  - "Sam\_E Williams"
+  - "Thomas\_E Witte"
+  - "Steffaney\_M Wood Rocca"
+  - Keith Yamada
+  - Dong Yang
+  - Dongsoo Yang
+  - Jingwei Yu
+  - Zhenyi Zhou
+  - Nadine Ziemert
+  - Lukas Zimmer
+  - Alina Zimmermann
+  - Christian Zimmermann
+  - "Justin\_J J van\_der\_Hooft"
+  - "Roger\_G Linington"
+  - Tilmann Weber
+  - "Marnix\_H Medema"
+  publisher: Nucleic Acids Research
+  date: '2024-12-09'
+  link: https://doi.org/hbvbtt
+  orcid: 0000-0001-6534-6609
+  plugin: orcid.py
+  file: orcid-pi.yaml
+- id: doi:10.1016/j.tips.2023.06.004
+  title: Metabolome-guided genome mining of RiPP natural products
+  authors:
+  - Mitja M. Zdouc
+  - Justin J.J. van der Hooft
+  - Marnix H. Medema
+  publisher: Trends in Pharmacological Sciences
+  date: '2023-08-01'
+  link: https://doi.org/hbvbtv
+  orcid: 0000-0001-6534-6609
+  plugin: orcid.py
+  file: orcid-pi.yaml
+- id: doi:10.1093/nar/gkac1049
+  title: 'MIBiG 3.0: a community-driven effort to annotate experimentally validated
+    biosynthetic gene clusters'
+  authors:
+  - Barbara R Terlouw
+  - Kai Blin
+  - "Jorge C Navarro-Mu\xF1oz"
+  - Nicole E Avalon
+  - Marc G Chevrette
+  - Susan Egbert
+  - Sanghoon Lee
+  - David Meijer
+  - "Michael\_J J Recchia"
+  - "Zachary\_L Reitz"
+  - "Jeffrey\_A van\_Santen"
+  - Nelly Selem-Mojica
+  - "Thomas T\xF8rring"
+  - Liana Zaroubi
+  - Mohammad Alanjary
+  - Gajender Aleti
+  - "C\xE9sar Aguilar"
+  - "Suhad\_A A Al-Salihi"
+  - "Hannah\_E Augustijn"
+  - "J\_Abraham Avelar-Rivas"
+  - "Luis\_A Avitia-Dom\xEDnguez"
+  - "Francisco Barona-G\xF3mez"
+  - "Jordan Bernaldo-Ag\xFCero"
+  - Vincent A Bielinski
+  - Friederike Biermann
+  - "Thomas\_J Booth"
+  - "Victor\_J Carrion\_Bravo"
+  - Raquel Castelo-Branco
+  - "Fernanda\_O Chagas"
+  - Pablo Cruz-Morales
+  - Chao Du
+  - "Katherine\_R Duncan"
+  - Athina Gavriilidou
+  - Damien Gayrard
+  - "Karina Guti\xE9rrez-Garc\xEDa"
+  - Kristina Haslinger
+  - "Eric\_J N Helfrich"
+  - "Justin\_J J van\_der\_Hooft"
+  - "Afif\_P Jati"
+  - Edward Kalkreuter
+  - Nikolaos Kalyvas
+  - "Kyo\_Bin Kang"
+  - Satria Kautsar
+  - Wonyong Kim
+  - "Aditya\_M Kunjapur"
+  - Yong-Xin Li
+  - Geng-Min Lin
+  - Catarina Loureiro
+  - "Joris\_J R Louwen"
+  - "Nico\_L L Louwen"
+  - George Lund
+  - Jonathan Parra
+  - Benjamin Philmus
+  - Bita Pourmohsenin
+  - "Lotte\_J U Pronk"
+  - Adriana Rego
+  - "Devasahayam\_Arokia\_Balaya Rex"
+  - Serina Robinson
+  - "L\_Rodrigo Rosas-Becerra"
+  - "Eve\_T Roxborough"
+  - "Michelle\_A Schorn"
+  - "Darren\_J Scobie"
+  - "Kumar\_Saurabh Singh"
+  - Nika Sokolova
+  - Xiaoyu Tang
+  - Daniel Udwary
+  - Aruna Vigneshwari
+  - Kristiina Vind
+  - "Sophie\_P J M Vromans"
+  - Valentin Waschulin
+  - "Sam\_E Williams"
+  - "Jaclyn\_M Winter"
+  - "Thomas\_E Witte"
+  - Huali Xie
+  - Dong Yang
+  - Jingwei Yu
+  - Mitja Zdouc
+  - Zheng Zhong
+  - "J\xE9r\xF4me Collemare"
+  - "Roger\_G Linington"
+  - Tilmann Weber
+  - "Marnix\_H Medema"
+  publisher: Nucleic Acids Research
+  date: '2022-11-18'
+  link: https://doi.org/gr4qpr
+  orcid: 0000-0001-6534-6609
+  plugin: orcid.py
+  file: orcid-pi.yaml
+- id: doi:10.1101/2022.12.21.521422
+  title: 'FERMO: a Dashboard for Automated Prioritization of Molecular Features from
+    Mass Spectral Data'
+  authors:
+  - Mitja M. Zdouc
+  - Hannah E. Augustijn
+  - Nataliia V. Machushynets
+  - Lina M. Bayona
+  - Sylvia Soldatou
+  - Niek F. de Jonge
+  - Sarah Casu
+  - Marcel Jaspars
+  - Gilles P. van Wezel
+  - Marnix H. Medema
+  - Justin J. J. van der Hooft
+  publisher: openRxiv
+  date: '2022-12-22'
+  link: https://doi.org/hbvbtw
+  orcid: 0000-0001-6534-6609
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  buttons:
+  - type: preprint
+    link: https://doi.org/10.1101/2022.12.21.521422
+- id: doi:10.1021/acs.jnatprod.1c00194
+  title: Feature-Based Molecular Networking for the Targeted Identification of G<sub>q</sub>-Inhibiting
+    FR900359 Derivatives
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
+  - Wiebke Hanke
+  - Julian Patt
+  - Judith Alenfelder
+  - Jan H. Voss
+  - Mitja M. Zdouc
+  - Stefan Kehraus
+  - Jung Bong Kim
+  - "Goran V. Gruji\u010Di\u0107"
+  - Vigneshwaran Namasivayam
+  - Raphael Reher
+  - "Christa E. M\xFCller"
+  - Evi Kostenis
+  - "Max Cr\xFCsemann"
+  - "Gabriele M. K\xF6nig"
+  publisher: Journal of Natural Products
+  date: '2021-07-01'
+  link: https://doi.org/gk44bs
+  orcid: 0000-0001-6534-6609
+  plugin: orcid.py
+  file: orcid-pi.yaml
+- id: doi:10.1093/jimb/kuab017
+  title: Effective approaches to discover new microbial metabolites in a large strain
+    library
+  authors:
+  - Mitja M Zdouc
+  - Marianna Iorio
+  - Kristiina Vind
+  - Matteo Simone
+  - Stefania Serina
+  - Cristina Brunati
+  - Paolo Monciardini
+  - Arianna Tocchetti
+  - "Guadalupe S Zaraz\xFAa"
+  - "Max Cr\xFCsemann"
+  - Sonia I Maffioli
+  - Margherita Sosio
+  - Stefano Donadio
+  publisher: Journal of Industrial Microbiology and Biotechnology
+  date: '2021-02-18'
+  link: https://doi.org/hbvbtx
+  orcid: 0000-0001-6534-6609
+  plugin: orcid.py
+  file: orcid-pi.yaml
+- id: doi:10.1016/j.chembiol.2020.11.009
+  title: A biaryl-linked tripeptide from Planomonospora reveals a widespread class
+    of minimal RiPP gene clusters
+  authors:
+  - Mitja M. Zdouc
+  - Mohammad M. Alanjary
+  - "Guadalupe S. Zaraz\xFAa"
+  - Sonia I. Maffioli
+  - "Max Cr\xFCsemann"
+  - Marnix H. Medema
+  - Stefano Donadio
+  - Margherita Sosio
+  publisher: Cell Chemical Biology
+  date: '2021-05-01'
+  link: https://doi.org/hbvbt2
+  orcid: 0000-0001-6534-6609
+  plugin: orcid.py
+  file: orcid-pi.yaml
+- id: doi:10.1038/s41598-021-84833-2
+  title: Blocks in the pseudouridimycin pathway unlock hidden metabolites in the Streptomyces
+    producer strain
+  authors:
+  - Marianna Iorio
+  - Sahar Davatgarbenam
+  - Stefania Serina
+  - Paolo Criscenzo
+  - Mitja M. Zdouc
+  - Matteo Simone
+  - Sonia I. Maffioli
+  - Richard H. Ebright
+  - Stefano Donadio
+  - Margherita Sosio
+  publisher: Scientific Reports
+  date: '2021-03-12'
+  link: https://doi.org/grnwwn
+  orcid: 0000-0001-6534-6609
+  plugin: orcid.py
+  file: orcid-pi.yaml
+- id: doi:10.1021/acs.jnatprod.0c00807
+  title: "<i>Planomonospora</i>\n                    : A Metabolomics Perspective\
+    \ on an Underexplored Actinobacteria Genus"
+  authors:
+  - Mitja M. Zdouc
+  - Marianna Iorio
+  - Sonia I. Maffioli
+  - "Max Cr\xFCsemann"
+  - Stefano Donadio
+  - Margherita Sosio
+  publisher: Journal of Natural Products
+  date: '2021-01-26'
+  link: https://doi.org/grnwsq
+  orcid: 0000-0001-6534-6609
+  plugin: orcid.py
+  file: orcid-pi.yaml
+- id: doi:10.1016/j.cdc.2018.02.003
+  title: Docking study with biological validation on bacterial enzyme MurD
+  authors:
+  - Mitja Zdouc
+  - Julia Schink
+  - "Samo Le\u0161nik"
+  - "Kaja Ro\u017Eman"
+  - Janez Konc
+  - "Du\u0161anka Jane\u017Ei\u010D"
+  - Stanislav Gobec
+  publisher: Chemical Data Collections
   date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  link: https://doi.org/hbvbt4
+  orcid: 0000-0001-6534-6609
+  plugin: orcid.py
+  file: orcid-pi.yaml
+- id: doi:10.1021/acs.jmedchem.6b01277
+  title: Discovery of <i>Mycobacterium tuberculosis</i> InhA Inhibitors by Binding
+    Sites Comparison and Ligands Prediction
+  authors:
+  - "Tanja \u0160tular"
+  - "Samo Le\u0161nik"
+  - "Kaja Ro\u017Eman"
+  - Julia Schink
+  - Mitja Zdouc
+  - An Ghysels
+  - Feng Liu
+  - Courtney C. Aldrich
+  - V. Joachim Haupt
+  - Sebastian Salentin
+  - Simone Daminelli
+  - Michael Schroeder
+  - Thierry Langer
+  - Stanislav Gobec
+  - "Du\u0161anka Jane\u017Ei\u010D"
+  - Janez Konc
+  publisher: Journal of Medicinal Chemistry
+  date: '2016-12-12'
+  link: https://doi.org/f9gs8w
+  orcid: 0000-0001-6534-6609
+  plugin: orcid.py
+  file: orcid-pi.yaml
+- id: doi:10.1101/2020.07.19.210815
+  title: "<i>Planomonospora</i>\n                  : a Metabolomics Perspective on\
+    \ an Underexplored Actinobacteria Genus"
+  authors:
+  - Mitja M. Zdouc
+  - Marianna Iorio
+  - Sonia I. Maffioli
+  - "Max Cr\xFCsemann"
+  - Stefano Donadio
+  - Margherita Sosio
+  publisher: openRxiv
+  date: '2020-07-19'
+  link: https://doi.org/gsxr65
+  buttons:
+  - type: preprint
+    link: https://doi.org/10.1101/2020.07.19.210815
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2020.07.21.214643
+  title: "A biaryl-linked tripeptide from\n                  <i>Planomonospora</i>\n\
+    \                  leads to widespread class of minimal RiPP gene clusters"
+  authors:
+  - Mitja M. Zdouc
+  - Mohammad M. Alanjary
+  - "Guadalupe S. Zaraz\xFAa"
+  - Sonia I. Maffioli
+  - "Max Cr\xFCsemann"
+  - Marnix H. Medema
+  - Stefano Donadio
+  - Margherita Sosio
+  publisher: openRxiv
+  date: '2020-07-21'
+  link: https://doi.org/hbvb3m
+  buttons:
+  - type: preprint
+    link: https://doi.org/10.1101/2020.07.21.214643
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2024.02.09.579616
+  title: Olive mill solid waste induces beneficial mushroom-specialized metabolite
+    diversity revealed by computational metabolomics strategies
+  authors:
+  - Soliman Khatib
+  - Idan Pereman
+  - Elizabeth Kostanda
+  - Mitja M. Zdouc
+  - Nirit Ezov
+  - Ron Schweitzer
+  - Justin J. J. van der Hooft
+  publisher: openRxiv
+  date: '2024-02-09'
+  link: https://doi.org/hbvb3s
+  buttons:
+  - type: preprint
+    link: https://doi.org/10.1101/2024.02.09.579616
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.26434/chemrxiv-2024-78mtl
+  title: The Minimum Information about a Tailoring Enzyme/Maturase data standard for
+    capturing natural product biosynthesis
+  authors:
+  - Mitja M. Zdouc
+  - David Meijer
+  - Friederike Biermann
+  - Jonathan Holme
+  - Aleksandra Korenskaia
+  - Annette Lien
+  - Nico L. L. Louwen
+  - "Jorge C. Navarro-Mu\xF1oz"
+  - Giang-Son Nguyen
+  - Adriano Rutz
+  - Anastasia Sveshnikova
+  - Judith Szenei
+  - Barbara Terlouw
+  - Rosina Torres Ortega
+  - Marc Feuermann
+  - Alan J. Bridge
+  - Justin J. J. van der Hooft
+  - Tilmann Weber
+  - Nadine Ziemert
+  - Kai Blin
+  - Marnix H. Medema
+  publisher: American Chemical Society (ACS)
+  date: '2024-04-09'
+  link: https://doi.org/g9gw2p
+  buttons:
+  - type: preprint
+    link: https://doi.org/10.26434/chemrxiv-2024-78mtl
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.26434/chemrxiv-2024-03ls0
+  title: Non-targeted metabolomics-based molecular networking enables the chemical
+    characterization of Rumex sanguineus
+  authors:
+  - Valentina Ramundi
+  - Mitja M. Zdouc
+  - Enrica Donati
+  - Justin J.J. van der Hooft
+  - Sara Cimini
+  - Laura Righetti
+  publisher: American Chemical Society (ACS)
+  date: '2024-07-09'
+  link: https://doi.org/hbvb4r
+  buttons:
+  - type: preprint
+    link: https://doi.org/10.26434/chemrxiv-2024-03ls0
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.21203/rs.3.rs-6073935/v1
+  title: Paired-omics-based exploration and characterisation of biosynthetic diversity
+    in lichenized fungi
+  authors:
+  - Garima Singh
+  - Maonian Xu
+  - Mitja Zdouc
+  - Anna Pasinato
+  - "Jorge C. Navarro-Mu\xF1oz"
+  - Susan Egbert
+  - Xinhui Xinhui Yu
+  - Elin Soffia Olafsdottir
+  - Nuria Beltran-Sanz
+  - Pradeep K Divakar
+  - David Pizarro
+  - Jordan R Hoffman
+  - Christoph Scheidegger
+  - Imke Schmitt
+  - Francesco Dal Grande
+  - Marnix H. Medema
+  publisher: Springer Science and Business Media LLC
+  date: '2025-03-14'
+  link: https://doi.org/hbvb48
+  buttons:
+  - type: preprint
+    link: https://doi.org/10.21203/rs.3.rs-6073935/v1
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.26434/chemrxiv-2024-78mtl-v2
+  title: 'MITE: the Minimum Information about a Tailoring Enzyme database for capturing
+    specialized metabolite biosynthesis'
+  authors:
+  - Adriano Rutz
+  - Daniel Probst
+  - "C\xE9sar Aguilar"
+  - Daniel Y. Akiyama
+  - Fabrizio Alberti
+  - Hannah E. Augustijn
+  - Nicole E. Avalon
+  - Christine Beemelmanns
+  - Hellen Bertoletti Barbieri
+  - Friederike Biermann
+  - Alan J. Bridge
+  - "Esteban Charria Gir\xF3n"
+  - Russell Cox
+  - "Max Cr\xFCsemann"
+  - Paul M. D'Agostino
+  - Marc Feuermann
+  - Jennifer Gerke
+  - "Karina Guti\xE9rrez Garc\xEDa"
+  - Jonathan Holme
+  - Ji-Yeon Hwang
+  - Riccardo Iacovelli
+  - "J\xFAlio C\xE9sar Jeronimo Barbosa"
+  - Navneet Kaur
+  - Martin Klapper
+  - "Anna M. K\xF6hler"
+  - Aleksandra Korenskaia
+  - Noel Kubach
+  - Byung T. Lee
+  - Catarina Loureiro
+  - Shrikant Mantri
+  - Simran Narula
+  - David Meijer
+  - "Jorge C. Navarro-Mu\xF1oz"
+  - Giang-Son Nguyen
+  - Sunaina Paliyal
+  - Mohit Panghal
+  - Latika Rao
+  - Simon Sieber
+  - Nika Sokolova
+  - Sven T. Sowa
+  - Judith Szenei
+  - Barbara Terlouw
+  - Heiner G. Weddeling
+  - Jingwei Yu
+  - Nadine Ziemert
+  - Tilmann Weber
+  - Kai Blin
+  - Justin J. J. van der Hooft
+  - Marnix H. Medema
+  - Mitja M. Zdouc
+  publisher: American Chemical Society (ACS)
+  date: '2025-08-20'
+  link: https://doi.org/hbvb5g
+  buttons:
+  - type: preprint
+    link: https://doi.org/10.26434/chemrxiv-2024-78mtl-v2
   plugin: sources.py
   file: sources.yaml
