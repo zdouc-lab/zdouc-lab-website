@@ -1,45 +1,44 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Differential Cultivation Elicits Microbial Chemical Diversity
+  subtitle: Master thesis project
+  group: undergrad
+  image: images/projects/cultivation.png
+  link: assets/projects/Cultivation_master_project_v1.pdf
+  description: Investigate the chemical diversity of microbes and learn how they react to their environment. [Read more...](../assets/projects/Cultivation_master_project_v1.pdf)
   tags:
-    - resource
+    - wet-lab
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Targeted Metabolome Mining for Antimicrobial Peptides
+  subtitle: Master thesis project
+  group: undergrad
+  image: images/projects/ripp-mining.png
+  link: assets/projects/RiPP-mining_master_project_v1.pdf
+  description: Become a detective and pursue elusive ribosomal peptides using bioinformatics. [Read more...](../assets/projects/RiPP-mining_master_project_v1.pdf)
   tags:
-    - resource
+    - dry-lab
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: From Prototype to Production - Optimizing Microbial Peptide Yields
+  subtitle: Master thesis project
+  group: undergrad
+  image: images/projects/isolation.png
+  link: assets/projects/Isolation_master_project_v1.pdf
+  description: Discovery is only the first step - now we have to scale up production for further development! [Read more...](../assets/projects/Isolation_master_project_v1.pdf)
   tags:
-    - resource
-    - publication
+    - wet-lab
+
+- title: Enzyme Biocuration and Reaction Prediction using Machine Learning
+  subtitle: Master thesis project
+  group: undergrad
+  image: images/projects/mite_biocuration.png
+  link: assets/projects/MITE_master_project_v1.pdf
+  description: Expand the MITE database and dive into the world of machine learning. [Read more...](../assets/projects/MITE_master_project_v1.pdf)
+  tags:
+    - dry-lab
+
 
 - title: Cool Web App
   subtitle: a subtitle
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
+  group: retired
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
