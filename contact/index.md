@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is part of the [Department of Pharmaceutical Sciences](), [Division of Pharmacognosy](), University of Vienna.
+Our lab is part of the [Department of Pharmaceutical Sciences](https://pharmaceutical-sciences.univie.ac.at/), [Division of Pharmacognosy](https://pharmcog.univie.ac.at/), University of Vienna.
 Feel free to reach out to us!
 
 {%
