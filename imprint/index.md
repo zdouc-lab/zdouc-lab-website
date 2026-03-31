@@ -19,7 +19,7 @@ The production, use and non-commercial distribution of copies in electronic or p
 
 The text provided on this homepage has been reviewed with great care. 
 However, we cannot guarantee the accuracy, completeness or validity of the information provided. 
-Thereforem we do not accept liability for the contents provided. 
+Therefore, we do not accept liability for the contents provided. 
 Links to other websites have been carefully selected. 
 However, we are not responsible for contents on any other websites.
 
@@ -28,6 +28,8 @@ However, we are not responsible for contents on any other websites.
 This website does not collect any personal data from visitors and does not set any cookies. 
 The hosting provider (GitHub.com) of the website may collect information that is immediately necessary for the operation of the website.
 We do not have any influence on the activity of the hosting provider.
+
+For further information, refer to the [Data Protection Declaration of the University of Vienna](https://dsba.univie.ac.at/en/data-protection-declaration/).
 
 ### Responsibility for contents and editing
 
