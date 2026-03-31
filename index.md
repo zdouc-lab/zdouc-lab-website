@@ -1,17 +1,25 @@
 ---
 ---
 
-# zdouc-lab's Website
+# Zdouc Lab @ University of Vienna
 
-An engaging 1-3 sentence description of your lab.
+The Zdouc research lab investigates naturally occurring, specialized molecules called natural products. 
+These small molecules are widely used in medicine, food science, and agriculture, and are of enormous societal importance.
+Our investigation focuses on microbial natural products, which are especially promising for the development of new antibiotics.
 
-{% include section.html %}
+The Zdouc lab aims to unravel the chemical language of nature using data science, linked open data, and experimental investigation. 
+By developing new algorithms for genome and metabolome mining, establishing data infrastructure, 
+and discovering new molecules, we aim to foster the development of effective new drugs, sustainable agrochemicals,
+and microbiome-friendly food additives.
+
+{% include figure.html image="images/index/focus.jpg" width="35vh" %}
 
 ## Highlights
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We use computational prediction and experimental validation for the investigation of natural products.
+Our research emphasizes transparency, reproducibility, and rigor.
 
 {%
   include button.html
@@ -26,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/index/research.png"
   link="research"
   title="Our Research"
   text=text
@@ -34,14 +42,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We build tools and resources to accelerate natural product discovery.
+We emphasize good coding practices, open science, and FAIR data principles.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="resources"
+  text="Take a look at our resources"
   icon="fa-solid fa-arrow-right"
-  flip=true
   style="bare"
 %}
 
@@ -49,22 +57,24 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/index/resources.png"
   link="projects"
-  title="Our Projects"
+  title="Tools and Resources"
   flip=true
   style="bare"
   text=text
 %}
 
+
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Interested in working on the intersection of computation and experiment? 
+We regularly advertise thesis projects for graduate and undergraduate students. Join us!
 
 {%
   include button.html
-  link="team"
-  text="Meet our team"
+  link="projects"
+  text="Browse our thesis projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -74,8 +84,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  image="images/index/project.jpg"
+  link="projects"
+  title="Our Thesis Projects"
+  style="bare"
   text=text
 %}

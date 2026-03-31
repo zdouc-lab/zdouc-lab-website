@@ -1,0 +1,19 @@
+- title: MITE Database
+  subtitle: The Minimum Information about a Tailoring Enzyme database
+  image: images/resources/mite_logo.svg
+  group: highlighted
+  link: https://mite.bioinformatics.nl/
+  description: MITE bridges bioinformatics and cheminformatics by describing the reaction- and substrate-specificity of tailoring enzymes in a machine-readable format.
+  repo: mite-standard
+  tags:
+    - database
+
+- title: FERMO Dashboard
+  subtitle: A webapp for metabolomics data mining
+  image: images/resources/fermo_logo.png
+  group: highlighted
+  link: https://fermo.bioinformatics.nl/
+  description: FERMO allows to integrate metabolomics data and bioactivity data to perform biochemometric analyses.
+  repo: fermo-metabolomics
+  tags:
+    - software
