@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Thesis Projects
 nav:
   order: 3
   tooltip: Student thesis projects
