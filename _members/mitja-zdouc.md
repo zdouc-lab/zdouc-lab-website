@@ -1,6 +1,6 @@
 ---
 name: Mitja M. Zdouc
-image: images/MMZ.JPG
+image: images/team/MMZ.JPG
 role: principal-investigator
 affiliation: University of Vienna
 aliases:

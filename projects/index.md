@@ -1,14 +1,15 @@
 ---
 title: Projects
 nav:
-  order: 2
-  tooltip: Software, datasets, and more
+  order: 3
+  tooltip: Student Thesis Projects
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Thesis Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Here we advertise thesis projects for both graduate and undergraduate students. 
+If you are interested in one or more of the projects, feel free to [get in touch]({% link contact/index.md %}).
+
 
 {% include tags.html tags="publication, resource, website" %}
 
