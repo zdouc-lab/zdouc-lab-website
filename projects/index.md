@@ -15,12 +15,12 @@ If you are interested in one or more of the projects, or have an exciting idea o
 
 {% include search-info.html %}
 
-## Undergraduate Student Projects
+## Master Student Projects
 
 {% include list.html component="card" data="projects" filter="group == 'undergrad'" style="small" %}
 
 {% include section.html %}
 
-## Graduate Student Projects
+## PhD Student Projects
 
 {% include list.html component="card" data="projects" filter="group == 'grad'" %}
