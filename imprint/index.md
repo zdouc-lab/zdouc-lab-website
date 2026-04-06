@@ -6,7 +6,7 @@ title: Imprint
 
 ## Basic purpose of the website
 
-Providing information about the affairs of the Zdouc Lab located at the University of Vienna to the public.
+Providing information about the affairs of the Zdouc Laboratory, located at the University of Vienna, to the public.
 This website is purely informational and non-commercial.
 
 ## Copyright
@@ -27,13 +27,11 @@ However, we are not responsible for contents on any other websites.
 
 This website does not collect any personal data from visitors and does not set any cookies. 
 The hosting provider (GitHub.com) of the website may collect information that is immediately necessary for the operation of the website.
-We do not have any influence on the activity of the hosting provider.
-
-For further information, refer to the [Data Protection Declaration of the University of Vienna](https://dsba.univie.ac.at/en/data-protection-declaration/).
+We do not have any influence on the activity of the hosting provider, nor do we have access or insight into this data.
 
 ### Responsibility for contents and editing
 
-Zdouc Lab
+Zdouc Laboratory
 
 Ass.-Prof. Mag. Dr. Mitja Maximilian Zdouc
 
