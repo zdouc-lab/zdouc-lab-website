@@ -1,1 +1,1 @@
-Sitemap: http://zdouclab.org/sitemap.xml
+Sitemap: https://zdouclab.org/sitemap.xml
