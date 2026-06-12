@@ -5,7 +5,7 @@
 
 # zdouc-lab's Website
 
-Visit **[zdouclab.org](https://zdouclab.org)** 🚀
+Visit **[zdouclab.org](http://zdouclab.org)** 🚀
 
 
 ## For Developers
