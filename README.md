@@ -16,4 +16,6 @@ Visit **[zdouclab.org](https://zdouclab.org)** 🚀
 
 `./.docker/run.sh`
 
+This should update all records.
+
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
