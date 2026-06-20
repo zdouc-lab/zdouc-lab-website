@@ -34,6 +34,24 @@
   tags:
     - dry-lab
 
+- title: Machine Learning on Tailoring Enzymes - Harnessing MITE DB
+  subtitle: Master thesis project
+  group: undergrad
+  image: images/projects/ZL-master-project-miteML.png
+  link: assets/projects/ZL-master-project-miteML.pdf
+  description: Establish the MITE database as resource for machine learning applications. [Read more...](../assets/projects/ZL-master-project-miteML.pdf)
+  tags:
+    - dry-lab
+
+- title: Engineering Biological Databases - Case Studies on the MITE Database
+  subtitle: Master thesis project
+  group: undergrad
+  image: images/projects/ZL-master-project-miteWebApp.png
+  link: assets/projects/ZL-master-project-miteWebApp.pdf
+  description: Engineer the MITE web application for increased functionality, usability, and integration. [Read more...](../assets/projects/ZL-master-project-miteWebApp.pdf)
+  tags:
+    - dry-lab
+
 
 - title: Cool Web App
   subtitle: a subtitle
