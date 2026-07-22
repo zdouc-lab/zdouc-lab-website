@@ -704,30 +704,6 @@
   orcid: 0000-0001-6534-6609
   plugin: orcid.py
   file: orcid-pi.yaml
-- id: doi:10.1101/2022.12.21.521422
-  title: 'FERMO: a Dashboard for Automated Prioritization of Molecular Features from
-    Mass Spectral Data'
-  authors:
-  - Mitja M. Zdouc
-  - Hannah E. Augustijn
-  - Nataliia V. Machushynets
-  - Lina M. Bayona
-  - Sylvia Soldatou
-  - Niek F. de Jonge
-  - Sarah Casu
-  - Marcel Jaspars
-  - Gilles P. van Wezel
-  - Marnix H. Medema
-  - Justin J. J. van der Hooft
-  publisher: bioRxiv
-  date: '2022-12-22'
-  link: https://doi.org/hbvbtw
-  orcid: 0000-0001-6534-6609
-  plugin: sources.py
-  file: sources.yaml
-  buttons:
-  - type: preprint
-    link: https://doi.org/10.1101/2022.12.21.521422
 - id: doi:10.1021/acs.jnatprod.1c00194
   title: Feature-Based Molecular Networking for the Targeted Identification of G<sub>q</sub>-Inhibiting
     FR900359 Derivatives
@@ -907,6 +883,29 @@
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/2020.07.21.214643
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2022.12.21.521422
+  title: 'FERMO: a Dashboard for Automated Prioritization of Molecular Features from
+    Mass Spectral Data'
+  authors:
+  - Mitja M. Zdouc
+  - Hannah E. Augustijn
+  - Nataliia V. Machushynets
+  - Lina M. Bayona
+  - Sylvia Soldatou
+  - Niek F. de Jonge
+  - Sarah Casu
+  - Marcel Jaspars
+  - Gilles P. van Wezel
+  - Marnix H. Medema
+  - Justin J. J. van der Hooft
+  publisher: bioRxiv
+  date: '2022-12-22'
+  link: https://doi.org/hbvbtw
+  buttons:
+  - type: preprint
+    link: https://doi.org/10.1101/2022.12.21.521422
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2024.02.09.579616
