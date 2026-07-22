@@ -17,3 +17,13 @@
   repo: fermo-metabolomics
   tags:
     - software
+
+- title: Protocols
+  subtitle: Natural product discovery protocols
+  image: images/resources/logo-blue.svg
+  group: highlighted
+  link: https://github.com/nps4nps/protocols/
+  description: A collection of open protocols for natural product drug discovery and related fields
+  repo: nps4nps
+  tags:
+    - database
