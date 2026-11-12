@@ -795,13 +795,13 @@
   plugin: orcid.py
   file: orcid-pi.yaml
 - id: doi:10.1021/acs.jnatprod.0c00807
-  title: "<i>Planomonospora</i>\n                    : A Metabolomics Perspective\
-    \ on an Underexplored Actinobacteria Genus"
+  title: "<i>Planomonospora</i>\n                    : A Metabolomics Perspective\n\
+    on an Underexplored Actinobacteria Genus"
   authors:
   - Mitja M. Zdouc
   - Marianna Iorio
   - Sonia I. Maffioli
-  - "Max Cr\xFCsemann"
+  - "Max Cru\u0308semann"
   - Stefano Donadio
   - Margherita Sosio
   publisher: Journal of Natural Products
