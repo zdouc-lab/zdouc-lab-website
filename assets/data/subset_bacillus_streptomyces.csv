@@ -1,3 +1,4 @@
+compound,compound_smiles,taxon,taxon_name,order_name
 http://www.wikidata.org/entity/Q105216986,O=C1OC(C)CCCC=CC=CC(O)CC(O)CC=CC=CC(OC(=O)CCC(=O)OC2OC(CO)C(O)C(O)C2O)CC=CC=C1,http://www.wikidata.org/entity/Q131238,Bacillus subtilis,Caryophanales
 http://www.wikidata.org/entity/Q105216989,O=C1OC(C)CCCC=CC=CC(O)CC(O)CC=CC=CC(OC(=O)CCC(=O)OC2OC(CO)C(O)C(O)C2O)CC=CC=C1,http://www.wikidata.org/entity/Q131238,Bacillus subtilis,Caryophanales
 http://www.wikidata.org/entity/Q105244875,O=C1OC(C)CCCC=CCCC(=O)CCCC=CC=CC(O)CC=CC=C1,http://www.wikidata.org/entity/Q131238,Bacillus subtilis,Caryophanales
